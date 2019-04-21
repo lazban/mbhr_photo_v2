@@ -24,41 +24,21 @@ googleAnalytics = ""
     # Footer panel
 
     [params.footer.paragraph]
-    headline = "Magna feugiat sed adipiscing"
-    text = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum."
+    headline = "About this"
+    text = "just trying a new, free and opensources way to display pictures"
 
     [params.footer.social]
     headline = "Follow me"
 
     [[params.footer.social.links]]
     label = "Twitter"
-    url = "#"
+    url = "https://twitter.com/MadeByHumanRace"
     icon = "fa-twitter"
 
     [[params.footer.social.links]]
-    label = "Facebook"
-    url = "#"
-    icon = "fa-facebook"
-
-    [[params.footer.social.links]]
     label = "Instagram"
-    url = "#"
+    url = "https://www.instagram.com/madebyhumanrace/"
     icon = "fa-instagram"
-
-    [[params.footer.social.links]]
-    label = "Github"
-    url = "#"
-    icon = "fa-github"
-
-    [[params.footer.social.links]]
-    label = "Dribbble"
-    url = "#"
-    icon = "fa-dribbble"
-
-    [[params.footer.social.links]]
-    label = "LinkedIn"
-    url = "#"
-    icon = "fa-linkedin"
 
     # Contact form
 
@@ -76,7 +56,7 @@ googleAnalytics = ""
 
     [params.footer.contact]
     hide = false # Set this to true if you don't want to have a contact form on your site
-    realEmail = "example@examle.org"
+    realEmail = "mail@madebyhumanrace.com"
     headline = "Get in touch"
     buttonText = "Send"
     resetText = "Reset"
