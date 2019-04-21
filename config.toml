@@ -1,15 +1,15 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "MADE BY HUMAN RACE"
 theme = "phugo"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = ""
 
 [params]
 
     # Meta
     description = "Made by Human Race - Photos"
-    author = "aerohub"
+    author = ""
     keywords = "photogallery, hugo, photoblog"
 
     # Headerbar links
