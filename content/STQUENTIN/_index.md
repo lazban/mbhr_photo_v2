@@ -1,6 +1,6 @@
 ---
 title: "STQUENTIN"
-albumthumb: "/STQUENTIN/images/offpeak-market3.jpg"
+albumthumb: "/STQUENTIN/images/stquentin_cover.jpg"
 date: 2019-04-20T22:07:23+02:00
 draft: false
 ---
