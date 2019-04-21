@@ -25,7 +25,7 @@ googleAnalytics = "UA-41139230-14"
 
     [params.footer.paragraph]
     headline = "About this"
-    text = "just trying a new, free and opensources way to display pictures"
+    text = "just trying a new, free and opensources way to display pictures. About privacy, this site hosts no ads, record and sell no data"
 
     [params.footer.social]
     headline = "Follow me"
