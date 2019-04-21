@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "MADE BY HUMAN RACE"
 theme = "phugo"
-googleAnalytics = ""
+googleAnalytics = "UA-41139230-14"
 
 [params]
 
