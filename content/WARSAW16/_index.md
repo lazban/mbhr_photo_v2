@@ -1,6 +1,6 @@
 ---
 title: "WARSAW16"
-albumthumb: "/WARSAW16/images/warsaw16-1.jpg"
+albumthumb: "/WARSAW16/images/warsaw_cover.jpg"
 date: 2019-04-21T07:07:23+02:00
 draft: false
 ---
