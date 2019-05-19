@@ -1,5 +1,6 @@
 ---
 title: "STQUENTIN"
+slug: "stquentin"
 albumthumb: "/STQUENTIN/images/stquentin_cover.jpg"
 date: 2019-04-20T22:07:23+02:00
 draft: false
